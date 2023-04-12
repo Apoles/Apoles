@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h1 >Hi 👋, I'm Abdullah</h1>
+<h3 >A passionate backend developer from Turkey</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@abdullahgumus](https://medium.com/@abdullahgumus)
 
